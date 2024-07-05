@@ -1,0 +1,15 @@
+ingredients.etat
+ingredients.exceptions
+ingredients.factory
+ingredients.instanceIngredient
+inventaire
+menufact
+menufact.exceptions
+menufact.facture
+menufact.facture.exceptions
+menufact.facture.state
+menufact.plats
+menufact.plats.exceptions
+menufact.plats.PlatEtat
+menufact.plats.platsBuilder
+tests

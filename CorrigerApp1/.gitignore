@@ -1,0 +1,6 @@
+*.o
+*.vs
+*/debug/*
+*/release/*
+*/out/*
+*.class
